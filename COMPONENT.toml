@@ -3,7 +3,7 @@ name = "SigmaOS-permissions"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "permissions component"
+description = "App permission model: network, filesystem, camera, microphone, notification access"
 upstream = []
 
 [contract]
